@@ -10,7 +10,7 @@ h1 {
 body {
     height: 100vh;
     width: 100vw;
-    background-image: url("/lilly.jpg")
+    background-image: url("lilly.jpg");
     font-family: "Pangolin", cursive;
     font-size: 1vmin;
     display: flex;
